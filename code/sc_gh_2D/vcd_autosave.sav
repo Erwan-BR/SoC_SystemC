@@ -1,0 +1,7 @@
+SystemC.HPIXEL
+SystemC.RESET
+SystemC.SH
+SystemC.SV
+SystemC.BLANK
+SystemC.PIXEL_IN[7:0]
+SystemC.PIXEL_OUT[7:0]
